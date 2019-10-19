@@ -61,7 +61,7 @@ $ npm run test:cov
 ```
 
 ## Util links
-- List of tools and helpers for NestJS (https://github.com/juliandavidmr/awesome-nestjs)
+- [List of tools and helpers for NestJS](https://github.com/juliandavidmr/awesome-nestjs)
 
 ## Support
 
